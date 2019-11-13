@@ -1,5 +1,8 @@
+# create and return a new, empty hash
 def new_hash
-
+new_hash = {}
+end
+new_hash
 end
 
 def actor
